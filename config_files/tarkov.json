@@ -1,0 +1,24 @@
+[
+  {
+    "template_id": "e4e7a9ad",
+    "original_image_size": {
+      "width": 1792,
+      "height": 1008
+    },
+    "screenshot_size": {
+      "width": 426,
+      "height": 43
+    },
+    "screenshot_pos": {
+      "top_left": {
+        "x1": 680,
+        "y1": 579
+      },
+      "bottom_right": {
+        "x2": 1106,
+        "y2": 622
+      }
+    },
+    "screenshot_path": "/Users/ollierosen/Desktop/Projects/live-cv/template_images/template_e4e7a9ad.png"
+  }
+]
