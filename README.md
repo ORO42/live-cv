@@ -70,7 +70,7 @@ I have had limited time to work on this project both times, so stopped at the in
         "y2": 622
       }
     },
-    "screenshot_path": "/Users/ollierosen/Desktop/Projects/live-cv/template_images/template_e4e7a9ad.png",
+    "screenshot_path": "/path/to/template/image.png",
     "next_template": "f5e7b5lc" // optional
   }
 ]
